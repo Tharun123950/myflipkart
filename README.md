@@ -1,4 +1,7 @@
 # Flipkart Clone Website
+## 👩‍💻 Author
+
+Battu Tharun Sai
 
 ## 📌 Project Overview
 
@@ -53,10 +56,6 @@ This project is a simple Flipkart-inspired E-Commerce website developed using HT
 - Product Search
 - Database Integration
 - Payment Gateway
-
-## 👩‍💻 Author
-
-Battu Tharun Sai
 
 GitHub:https://github.com/Tharun123950
 

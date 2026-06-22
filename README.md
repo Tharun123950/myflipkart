@@ -59,4 +59,4 @@ This project is a simple Flipkart-inspired E-Commerce website developed using HT
 
 GitHub:https://github.com/Tharun123950
 
-LinkedIn: linkedin.com/in/tharunbattu
+LinkedIn: https://www.linkedin.com/in/tharunbattu/
